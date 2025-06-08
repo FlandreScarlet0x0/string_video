@@ -13,8 +13,7 @@ pip install moviepy  -i https://pypi.tuna.tsinghua.edu.cn/simple 1
 
 ```
 
-- ```
-(当然可以直接通过计算机下载安装
+- 当然可以直接通过计算机下载安装
 ```
 pip install moviepy
 
