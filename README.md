@@ -6,14 +6,16 @@
 （如果是在b站下视频源，要通过手机将视频缓存并在本机文件中找到该视频文件）
 之后，需要通过打开控制台（win+cmd）使用pip安装相应的第三方库
 - 输入如下：（推荐使用清华同方的镜像站）
-```pip install pillow  -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+pip install pillow  -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install moviepy  -i https://pypi.tuna.tsinghua.edu.cn/simple 1
 ```
 
 - ```
 (当然可以直接通过计算机下载安装
-```pip install moviepy
+```
+pip install moviepy
 ```
 - 如果安装出错建议在网上搜索相应内容
 最后就可以运行该代码了
