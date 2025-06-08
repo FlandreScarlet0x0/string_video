@@ -7,9 +7,8 @@
 之后，需要通过打开控制台（win+cmd）使用pip安装相应的第三方库
 - 输入如下：（推荐使用清华同方的镜像站）
 ```pip install pillow  -i https://pypi.tuna.tsinghua.edu.cn/simple
-```
-```pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
-```pip install moviepy  -i https://pypi.tuna.tsinghua.edu.cn/simple 1
+pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install moviepy  -i https://pypi.tuna.tsinghua.edu.cn/simple 1
 ```
 
 - ```
