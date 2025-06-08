@@ -10,12 +10,14 @@
 pip install pillow  -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install moviepy  -i https://pypi.tuna.tsinghua.edu.cn/simple 1
+
 ```
 
 - ```
 (当然可以直接通过计算机下载安装
 ```
 pip install moviepy
+
 ```
 - 如果安装出错建议在网上搜索相应内容
 最后就可以运行该代码了
