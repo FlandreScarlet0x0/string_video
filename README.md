@@ -9,7 +9,6 @@
 ```pip install pillow  -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 ```pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
-```
 ```pip install moviepy  -i https://pypi.tuna.tsinghua.edu.cn/simple 1
 ```
 
